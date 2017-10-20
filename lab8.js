@@ -1,4 +1,4 @@
-'''javascript
+
 /*
 Lab 8 : Heaps used for Sorting
 Aubhik Mazumdar 10430935
@@ -77,4 +77,3 @@ console.log("Your numbers in descending order :- ");
 while (--count > 0) {
     console.log(remove_max());
 }
-'''
